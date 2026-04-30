@@ -28,6 +28,3 @@ In a world of information overload, staying organized shouldn't be complicated. 
 ```bash
 git clone https://github.com/yourusername/reminder-scheduler.git
 cd reminder-scheduler
-
------------------------------------------------------------------------------------------------------------------------------
-Built with ❤️ for the global developer community
