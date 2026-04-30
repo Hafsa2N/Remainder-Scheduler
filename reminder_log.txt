@@ -1,0 +1,3 @@
+2026-05-01 00:02:37 - INFO - Reminder 'Every Hour Break' triggered: Take a 2-minute break! Walk around.
+2026-05-01 00:02:37 - INFO - Reminder 'Daily Backup' triggered: Time to backup your important files.
+2026-05-01 00:03:01 - INFO - Scheduler stopped by user
