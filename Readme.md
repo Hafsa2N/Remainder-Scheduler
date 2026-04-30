@@ -22,23 +22,6 @@ In a world of information overload, staying organized shouldn't be complicated. 
 - ✅ **Cross-platform support** - works everywhere you work
 - ✅ **Zero configuration** - runs instantly, configurable deeply
 
-┌───────────────────────────────────────────────────┐
-│                   Proposed Solution               │
-├───────────────────────────────────────────────────┤
-│  ┌──────────────┐  ┌──────────────┐  ┌──────────┐ │
-│  │ Time Engine  │  │ Event Queue  │  │ Logger   │ │
-│  │ (Precision   │→ │ (Priority    │→ │ (Analytcs│ │
-│  │  Scheduler)  │  │  Manager)    │  │  Hub)    │ │
-│  └──────────────┘  └──────────────┘  └──────────┘ │
-│         ↓                  ↓              ↓       │
-│  ┌──────────────────────────────────────────────┐ │
-│  │         Notification Dispatcher              │ │
-│  │  ├─ Windows Toast Handler                    │ │
-│  │  ├─ macOS Notification Center                │ │
-│  │  └─ Linux libnotify Bridge                   │ │
-│  └──────────────────────────────────────────────┘ │
-└───────────────────────────────────────────────────┘
-
 ## Installation
 
 1. Clone the repository:
@@ -46,4 +29,5 @@ In a world of information overload, staying organized shouldn't be complicated. 
 git clone https://github.com/yourusername/reminder-scheduler.git
 cd reminder-scheduler
 
+-----------------------------------------------------------------------------------------------------------------------------
 Built with ❤️ for the global developer community
